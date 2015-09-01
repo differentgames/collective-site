@@ -37,13 +37,17 @@ body {
 
 .pw-navbar {
   background-color: white;
+  @mixin navitem-border($color) {
+    border-bottom: 5px solid $color;
+  }
 
   li {
-    border-bottom: 5px solid white;
+    @include navitem-border(white);
+    transition: all .2s linear;
   }
 
   li:hover {
-    border-bottom: 5px solid $pinwheel-red;
+    @include navitem-border($pinwheel-red);
   }
 }
 
