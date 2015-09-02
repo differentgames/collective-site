@@ -1,0 +1,11 @@
+test:
+  override:
+    - bundle exec jekyll build && bundle exec htmlproof _site --disable-external
+machine:
+  ruby:
+    version: 2.1.1
+deployment:
+  master:
+    branch: master
+    commands:
+      - ./deploy.sh
