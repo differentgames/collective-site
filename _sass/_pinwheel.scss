@@ -69,6 +69,22 @@ body {
   }
 }
 
+.pw-mx {
+  text-align: center;
+    
+  img {
+    max-height:100px;
+    margin: 0 10px;
+
+    &.grass {
+      margin:auto;
+      display: block;
+      max-width:50%;
+    }
+  }
+
+}
+
 .site-footer {
   background-color: $pinwheel-yellow;
   color: white;
