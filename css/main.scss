@@ -30,6 +30,8 @@ $pinwheel-yellow:  #e1cc3f;
 $pinwheel-red:     #e63112;
 $pinwheel-green:   #01b171;
 
+$pinwheel-dark-blue:#49506a;
+
 
 // Using media queries with like this:
 // @include media-query($palm) {
@@ -51,5 +53,6 @@ $pinwheel-green:   #01b171;
         "base",
         "layout",
         "syntax-highlighting",
-        "pinwheel"
+        "pinwheel",
+        "projects"
 ;
