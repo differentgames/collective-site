@@ -94,6 +94,25 @@ body {
 
 }
 
+.pw-call-to-action {
+  text-align: center;
+  margin:2em auto;
+}
+
+.pw-btn {
+  background-color: $pinwheel-green;
+  color: white;
+  border-radius: 0px;
+  opacity: 1;
+  transition: .2s ease-in all;
+  text-align: center;
+
+  &:hover {
+    color: white;
+    opacity: .65;
+  }
+}
+
 .blurb.pw-post-title {
   margin-bottom: 0.5em;
 }

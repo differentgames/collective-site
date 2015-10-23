@@ -11,11 +11,11 @@ Our Inclusivity Statement, a living document we use to foster dialogue and facil
 
 We invite interested organizations to use our statement in whole or part.
 
-<p class="text-center">
-  <a href="http://goo.gl/Le1QJp" class="btn btn-lg btn-callout btn-success">
+<div class="pw-call-to-action">
+  <a href="http://goo.gl/Le1QJp" class="btn btn-lg btn-callout pw-btn">
     View the Inclusivity Statement
   </a>
-</p>
+</div>
 
 
 # Sharing Best Practices
@@ -29,8 +29,8 @@ While we don’t claim any authority over what makes an event “inclusive”, w
 
 For questions about the Inclusivity Statement, or information about working with Different Games to implement more inclusive policies and procedures, please contact us.
 
-<p class="text-center">
-  <a href="mailto:differentgamesconference@gmail.com" class="btn btn-lg btn-callout btn-success">
+<div class="pw-call-to-action">
+  <a href="mailto:differentgamesconference@gmail.com" class="btn btn-lg btn-callout pw-btn">
     Email us!
   </a>
-</p>
+</div>
