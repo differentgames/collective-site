@@ -3,6 +3,15 @@ body {
     font-size: $base-font-size;
 }
 
+a {
+  color: $pinwheel-blue;
+  transition: .1s ease-in all;
+  &:hover {
+    color: $pinwheel-dark-blue;
+    text-decoration: none;
+  }
+}
+
 .banner {
   background-color: $pinwheel-blue;
   background-image: 
