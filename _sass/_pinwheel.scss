@@ -63,9 +63,6 @@ hr {
 
 .pw-navbar {
   background-color: white;
-  @mixin navitem-border($color) {
-    border-bottom: 5px solid $color;
-  }
 
   li {
     @include navitem-border(white);
@@ -135,5 +132,14 @@ hr {
 
   a {
     color: white;
+  }
+
+  li {
+    @include navitem-border($pinwheel-yellow);
+    transition: all .2s linear;
+  }
+
+  li:hover {
+    @include navitem-border(white);
   }
 }
