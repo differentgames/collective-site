@@ -1,3 +1,5 @@
+@import 'mixins';
+
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
@@ -81,6 +83,10 @@ hr {
   a {
     font-weight: bold;
   }
+
+  h2 {
+    @include nice-blue-header;
+  }
 }
 
 .pw-masthead {
@@ -110,6 +116,12 @@ hr {
   &:hover {
     color: white;
     opacity: .65;
+  }
+}
+
+.post-content {
+  h1 {
+    @include nice-blue-header;
   }
 }
 
