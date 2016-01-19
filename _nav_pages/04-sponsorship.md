@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Different Games Goes to GDC
-permalink: /different-games-goes-to-gdc/
+title: Sponsorship
+permalink: /sponsorship/
 ---
 
-# Different Games Goes to GDC 2016
+# Become a sponsor
 
-This year Different Games Collective is honored to have been chosen to take part in the 2016 GDC Scholars Program alongside some of our favorite community based organizations from around the world.
+We need your help to carry out our mission of creating community resources and events to support marginalized voices in DIY and independent games.
 
-25 members of the Different Games community hope to attend GDC in San Francisco using the full passes gifted to us by GDC’s generous scholarship program.
 
 ## Help Us Bring DG to SF This March
 **Sponsor us at GDC 2016**
