@@ -12,4 +12,4 @@ This year Different Games Collective is honored to have been chosen to take part
 
 ## Help us get there!
 
-We'd love your sponsorship to help us cover the costs of traveling to San Francisco. <a href="/sponsorship">Learn more about sponsoring Different Games.</a>
+We'd love your sponsorship to help us cover the costs of traveling to San Francisco. <a href="/dg-at-gdc">Learn more about sponsoring Different Games.</a>
