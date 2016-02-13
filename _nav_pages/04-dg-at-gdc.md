@@ -4,7 +4,7 @@ title: DG at GDC!
 permalink: /dg-at-gdc/
 ---
 
-## Announcing the Different Games GDC Ambassadors program!
+# Announcing the Different Games GDC Ambassadors program!
 
 {:.centered}
 ![alt text](/images/dg-at-gdc-1.png "Image of Different Games Conference 2014")
