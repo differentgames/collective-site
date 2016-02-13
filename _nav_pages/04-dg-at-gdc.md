@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DG at GDC!
-permalink: /dg-at/
+permalink: /dg-at-gdc/
 ---
 
 ## Announcing the Different Games GDC Ambassadors program!

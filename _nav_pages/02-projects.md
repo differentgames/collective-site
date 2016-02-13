@@ -19,4 +19,4 @@ Dear Games is a feminist games collaboration between Charis Circle and the Diffe
 [More info on Dear Games](http://deargames.tumblr.com/)
 
 ## More Projects
-[Different Games Goes to GDC](/projects/different-games-goes-to-gdc/)
+[Different Games Goes to GDC](/dg-at-gdc/)
