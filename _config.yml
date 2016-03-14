@@ -19,5 +19,8 @@ exclude:
   - Gemfile.lock
 
 collections:
+  ambassadors:
+    foo: bar
   nav_pages:
     output: true
+  
