@@ -32,12 +32,14 @@ Join us in making the Different Games Ambassadors program a success this March a
 <div class="ambassadors">
   {% assign ambassadors = site.ambassadors %}
   {% for ambassador in ambassadors %}
+  <div class="ambassador">
     <img src="{{ ambassador.image }}" alt="{{ ambassador.name }}"/>
     <div class="info">
       <h3>{{ ambassador.name }} 
-        <a href="https://twitter.com/{{ambassador.twitter-id}}">@{{ ambassador.twitter-id }}</a> 
+        <a href="https://twitter.com/{{ambassador.twitter-id}}">{{ ambassador.twitter-id }}</a> 
         <a href="{{ambassador.website}}">{{ambassador.website}}</a></h3>
       <p>{{ ambassador.bio }}</p>
     </div>
+  </div>
   {% endfor %}
 </div>
