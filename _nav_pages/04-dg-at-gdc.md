@@ -21,12 +21,19 @@ permalink: /dg-at-gdc/
 <div class="ambassadors">
   {% assign ambassadors = site.ambassadors %}
   {% for ambassador in ambassadors %}
-  <div class="ambassador">
-    <img src="{{ ambassador.image }}" alt="{{ ambassador.name }}"/>
-    <div class="info">
+  <div class="ambassador row">
+    {% if ambassador.image %}
+    <img src="{{ ambassador.image }}" alt="{{ ambassador.name }}" class="col-xs-12 col-md-3"></img>
+    {% endif %}
+    <div class="col-xs-12 col-md-9">
       <h3>{{ ambassador.name }} 
-        <a href="https://twitter.com/{{ambassador.twitter-id}}">{{ ambassador.twitter-id }}</a> 
-        <a href="{{ambassador.website}}">{{ambassador.website}}</a></h3>
+        {% if ambassador.twitter-id %}
+          <a href="https://twitter.com/{{ambassador.twitter-id}}">@{{ ambassador.twitter-id }}</a> 
+        {% endif %}
+        {% if ambassador.website %}
+          <a href="{{ambassador.website}}">website</a>
+        {% endif %}
+        </h3>
       <p>{{ ambassador.bio }}</p>
     </div>
   </div>
