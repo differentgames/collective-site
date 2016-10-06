@@ -14,7 +14,7 @@ Different Games Conference is a Brooklyn-based event on diversity and inclusivit
 
 ## Dear Games
 
-Dear Games is a feminist games collaboration between Charis Circle and the Different Games Collective with support from the GA Tech Game Studio. We offer inclusive events to support diverse participation in videogame developement and culture at the South's oldest independent feminist bookstore, Charis Books and More.
+Dear Games is a feminist games collaboration between Charis Circle and the Different Games Collective with support from the GA Tech Game Studio. We offer inclusive events to support diverse participation in videogame development and culture at the South's oldest independent feminist bookstore, Charis Books and More.
 
 [More info on Dear Games](http://deargames.tumblr.com/)
 
