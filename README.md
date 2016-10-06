@@ -13,6 +13,9 @@ files as necessary, and you'll be able to see your changes at http://localhost:4
 
 :boom: :zap: :fireworks:
 
+## Testing
+`bundle exec jekyll build && bundle exec htmlproof _site --disable-external`
+
 ## Deploying
 It will happen automagically when you make commits to the master branch!
 
