@@ -1,43 +1,27 @@
 ---
 layout: page
-title: DG at GDC!
+title: DG @ GDC 2017
 permalink: /dg-at-gdc/
 ---
 
-# Announcing the Different Games GDC Ambassadors program!
+# The 2017 Different Games @ GDC Ambassadors Program
 
-{:.centered}
-![alt text](/images/dg-at-gdc-1.png "Image of Different Games Conference 2014")
+The Different Games Collective (DGC) is honored to announce that we have been chosen to participate in the 2017 Game Developers Conference (GDC) Scholars Program. We are delighted to share this opportunity with individuals, organizations and institutions that will help support Different Games Collective’s mission of fostering diversity and inclusivity in games and games culture. In support of this goal **we are now accepting applications for our DG @ GDC 2017 Ambassadors Program**.
 
-<div class="ambassadors-text">
-  <p>This year our collective is honored to have been chosen to take part in the 2016 GDC Scholars Program alongside some of our favorite community based games organizations from around the world. 25 members of the collective and broader Different Games community have been offered the opportunity to represent the organization as Different Games Ambassadors to GDC. </p>
-  <p>Ranging from students and emerging creatives to respected academics and established designers we are thrilled to welcome our 2016 Different Games Ambassadors to GDC!</p>
+***
+
+## Apply
+
+If you are an individual interested in being an ambassador or applying on behalf of a group who would like to participate in the program, please submit your application via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfLyc-ZG6gNULmuD1wcDnMJyBvGUR8SXxlOD5RHlMZ0aSB99Q/viewform?c=0&w=1).
+
+<div class="pw-call-to-action">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLyc-ZG6gNULmuD1wcDnMJyBvGUR8SXxlOD5RHlMZ0aSB99Q/viewform?c=0&w=1" class="btn btn-lg btn-callout pw-btn">
+    Apply to the 2017 DG @ GDC Ambassadors Program
+  </a>
 </div>
 
-<div class="ambassdors-header">
-  <h2>2016 Different Games Ambassadors to GDC</h2>
-</div>
+## About the Program
 
-<div class="ambassadors">
-  {% assign ambassadors = site.ambassadors %}
-  {% for ambassador in ambassadors %}
-  <div class="ambassador row">
-    {% if ambassador.image %}
-    <img src="{{ ambassador.image }}" alt="{{ ambassador.name }}" class="col-xs-12 col-md-3"></img>
-    {% endif %}
-    <div class="col-xs-12 col-md-9">
-      <h3>{{ ambassador.name }} 
-        {% if ambassador.twitter-id %}
-          <a href="https://twitter.com/{{ambassador.twitter-id}}">@{{ ambassador.twitter-id }}</a> 
-        {% endif %}
-        {% if ambassador.website %}
-          <a href="{{ambassador.website}}">website</a>
-        {% endif %}
-        </h3>
-      <p>{{ ambassador.bio }}</p>
-    </div>
-  </div>
-  {% endfor %}
-</div>
+The DG @ GDC 2017 Ambassadors Program includes all-access passes to GDC, including talks and workshops, as well as one year of access to the GDC Vault. Ambassadors will have the opportunity to network with other members of the 2017 program, are invited to join us for a special event on the afternoon of Sunday Feb. 26th, and will receive tote bags.
 
-If you’d like to join Different Games in continuing to build a more vibrant, diverse and inclusive games community for us all, please consider becoming a sponsor.
+**Applications are due on or before January 2nd and recipients will be announced by mid January**. If you have any questions, please feel free to email us at differentgamescollective@gmail.com
