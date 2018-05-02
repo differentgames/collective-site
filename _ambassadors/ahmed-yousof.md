@@ -4,7 +4,7 @@ category: ambassador
 id: ahmed-yousof
 permalink: /dg-at-gdc#ahmed-yousof
 
-name: ahmed-yousof
+name: Ahmed Yousof
 twitter-id:
 website: 
 bio: Ahmed Yousof is an Assistant Teaching Professor of Game Design at Pennsylvania State University
