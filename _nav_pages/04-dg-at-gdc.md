@@ -20,9 +20,9 @@ The DG @ GDC 2018 Ambassadors Program includes passes to GDC, including talks an
   {% assign ambassadors = site.ambassadors %}
   {% for ambassador in ambassadors %}
   <div class="ambassador row">
-    <!-- {% if ambassador.image %}
+    {% if ambassador.image %}
     <img src="{{ ambassador.image }}" alt="{{ ambassador.name }}" class="col-xs-12 col-md-3"></img>
-    {% endif %} -->
+    {% endif %}
     <div class="col-xs-12">
       <h3>{{ ambassador.name }}
         {% if ambassador.twitter-id %}
