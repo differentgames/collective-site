@@ -5,8 +5,8 @@ permalink: /projects/
 ---
 
 ## Different Games Conference
-Different Games Conference is a Brooklyn-based event on diversity and inclusivity in games, which strives to amplify the creative and critical voices of marginalized participants in games culture. Geared towards accessibility and radical inclusivity, our annual volunteer-led conference welcomes panels, workshops and playable games from presenters of all professional backgrounds and levels of expertise. Our programming is diverse and interdisciplinary with a focus on featuring emerging voices and representing identities and perspectives not typically supported by the commercial industry.
-
+Different Games Conference is an event on diversity and inclusivity in games, which strives to amplify the creative and critical voices of marginalized participants in games culture. Geared towards accessibility and radical inclusivity, our annual volunteer-led conference welcomes panels, workshops and playable games from presenters of all professional backgrounds and levels of expertise. Our programming is diverse and interdisciplinary with a focus on featuring emerging voices and representing identities and perspectives not typically supported by the commercial industry.
+* [2018](http://2018.differentgames.org)
 * [2016](http://2016.differentgames.org)
 * [2015](http://2015.differentgames.org)
 * [2014](http://2014.differentgames.org)
